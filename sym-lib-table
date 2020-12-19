@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MiniF4)(type Legacy)(uri ${KIPRJMOD}/MiniF4.lib)(options "")(descr ""))
+  (lib (name SH1106)(type Legacy)(uri ${KIPRJMOD}/SH1106.lib)(options "")(descr ""))
+)
